@@ -1,0 +1,48 @@
+#EXTM3U
+#EXTINF:0,USA :  AAA
+#EXTVLCOPT:network-caching=1000
+http://www.wanzing.com/95521
+#EXTINF:0,GB : ABC
+#EXTVLCOPT:network-caching=1000
+http://www.wanzing.com/93405
+#EXTINF:0,CA : DEF
+#EXTVLCOPT:network-caching=1000
+http://www.wanzing.com/65015
+#EXTINF:0,USA : ZZZ
+#EXTVLCOPT:network-caching=1000
+http://www.wanzing.com/18409
+
+#EXTINF:0,Movie1
+#EXTVLCOPT:network-caching=1000
+http://www.wanzing.com/movie/68139.mkv
+#EXTINF:0,Movie2
+#EXTVLCOPT:network-caching=1000
+http://www.wanzing.com/movie/69269.mp4
+#EXTINF:0,Movie3
+#EXTVLCOPT:network-caching=1000
+http://www.wanzing.com/movie/69900.mkv
+#EXTINF:0,Movie4
+#EXTVLCOPT:network-caching=1000
+http://www.wanzing.com/movie/70620.mp4
+#EXTINF:Movie5
+#EXTVLCOPT:network-caching=1000
+http://www.wanzing.com/movie/70064.mp4
+
+#EXTINF:0,SeriesA S01 E01
+#EXTVLCOPT:network-caching=1000
+http://www.wanzing.com/series/20332.mp4
+#EXTINF:0,SeriesA S01 E02
+#EXTVLCOPT:network-caching=1000
+http://www.wanzing.com/series/20333.mp4
+#EXTINF:0,SeriesA S01 E03
+#EXTVLCOPT:network-caching=1000
+http://www.wanzing.com/series/20334.mp4
+#EXTINF:0,SeriesA S01 E04
+#EXTVLCOPT:network-caching=1000
+http://www.wanzing.com/series/20335.mp4
+#EXTINF:0,SeriesA S01 E05
+#EXTVLCOPT:network-caching=1000
+http://www.wanzing.com/series/20336.mp4
+#EXTINF:0,SeriesA S01 E06
+#EXTVLCOPT:network-caching=1000
+http://www.wanzing.com/series/20337.mp4
